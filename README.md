@@ -7,12 +7,15 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech Student at **Sumathi Reddy Institute of Technology for Women**
-- 🌱 Learning **Full Stack Development (React, Node.js, MongoDB) + AI/ML**
-- 💻 Interested in building **web apps and intelligent systems**
-- 👯 Looking to collaborate on **open-source and beginner-friendly projects**
+- 🎓 B.Tech Student at Sumathi Reddy Institute of Technology for Women  
+- 💻 Passionate about Full Stack Development and AI/ML technologies  
+- 🌱 Currently learning React, Node.js, MongoDB, Java, and Machine Learning fundamentals  
+- 🚀 Interested in building real-world, scalable, and user-friendly web applications  
+- 🧠 Strong interest in problem solving and improving coding skills through DSA practice  
+- 🤝 Open to collaborating on web development and beginner-friendly open-source projects  
+- 🔍 Exploring how AI can be integrated into modern web applications  
 - 📫 Email: **meghanareddyvallem@gmail.com**
 
 ---
@@ -46,5 +49,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
