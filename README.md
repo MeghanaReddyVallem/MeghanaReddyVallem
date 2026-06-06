@@ -1,3 +1,4 @@
+```html
 <h1 align="center">Hi 👋, I'm Meghana Reddy Vallem</h1>
 <h3 align="center">Aspiring Full Stack Developer & AI/ML Enthusiast from India</h3>
 
@@ -11,73 +12,86 @@
 </a>
 </p>
 
-* 🎓 I'm currently pursuing my B.Tech at **Sumathi Reddy Institute of Technology for Women**
+- 🎓 I'm currently pursuing my B.Tech at **Sumathi Reddy Institute of Technology for Women**
 
-* 🌱 I'm currently learning **React.js, Node.js, MongoDB, Artificial Intelligence, and Machine Learning**
+- 🌱 I'm currently learning **React.js, Node.js, MongoDB, Java, and Machine Learning**
 
-* 💻 Passionate about building **Full Stack Web Applications and AI-powered solutions**
+- 💻 Passionate about building **Full Stack Web Applications and AI/ML solutions**
 
-* 👯 I'm looking to collaborate on **Web Development, Open Source, and AI/ML Projects**
+- 👯 I'm looking to collaborate on **Web Development, Open Source, and AI/ML Projects**
 
-* 🤝 I'm looking for help with **Advanced Full Stack Development and Machine Learning Projects**
+- 🤝 I'm looking for help with **Advanced Full Stack Development and Machine Learning**
 
-* 🚀 Currently working on **Full Stack and AI-based Projects to strengthen practical skills**
+- 🚀 Currently working on **projects to improve my development and problem-solving skills**
 
-* 👨‍💻 All of my projects are available at **github.com/MeghanaReddyVallem**
+- 👨‍💻 All of my projects are available at  
+  👉 https://github.com/MeghanaReddyVallem
 
-* 💬 Ask me about **Java, React, HTML, CSS, JavaScript, MongoDB, and AI/ML**
+- 💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB, HTML, CSS, and AI/ML basics**
 
-* 📫 How to reach me: **[meghanareddyvallem@gmail.com](mailto:meghanareddyvallem@gmail.com)**
+- 📫 How to reach me: **meghanareddyvallem@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/meghana-reddy-vallem" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/meghana-reddy-vallem-783a81290/" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn"
+height="30"
+width="40" />
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### Languages and Tools:
 
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://react.dev" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 </p>
+
+---
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanareddyvallem&show_icons=true&locale=en" alt="meghanareddyvallem" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanareddyvallem&show_icons=true&locale=en" alt="stats"/>
 </p>
+```
+
 
